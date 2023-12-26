@@ -16,6 +16,7 @@ public class Main {
         System.out.println(hesapMakinesi.carp(12,2));
         System.out.println( hesapMakinesi.carp(10.12,24.45));
         System.out.println( hesapMakinesi.carp(1.2,3.4,5.6));
+        System.out.println("Deneme");
 
 
     }
